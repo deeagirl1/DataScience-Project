@@ -12,6 +12,6 @@ Project created by
 | Name|
 | -------------------|
 | Andreea Șindrilaru |
-| Mohammed Aljader |
+| Mohammed Aljader   |
 
 
